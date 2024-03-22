@@ -1,1 +1,1 @@
-# kougi-server
+# 講義サーバー
